@@ -1,0 +1,5 @@
+Metric,Value
+Silhouette Score,0.5016
+Calinski-Harabasz Index,6672.29
+Davies-Bouldin Score,0.6222
+Mean Intra-Cluster Distance,0.7423

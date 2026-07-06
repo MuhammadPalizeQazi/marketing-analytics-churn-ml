@@ -1,0 +1,4 @@
+Model,Silhouette Score,Calinski-Harabasz Index,Davies-Bouldin Score,Mean Intra-Cluster Distance
+Agglomerative_PCA,0.481,5920.9,0.6448,0.7503
+KMeans_UMAP,0.351500004529953,2729.16,0.9873,2.4876999855041504
+DBSCAN_PCA,0.8757,3953.56,0.4962,1.1219
